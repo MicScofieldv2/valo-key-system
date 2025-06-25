@@ -1,7 +1,14 @@
 {
   "keys": [
-    "CG-2025-VALO",
-    "CG-2025-PRO",
-    "VALO-HAFTA-01"
+    {
+      "key": "CG-2025",
+      "hwid": "00:1A:2B:3C:4D:5E",
+      "expiry": "2025-07-31"
+    },
+    {
+      "key": "TEST-KEY",
+      "hwid": "boş",
+      "expiry": "2025-12-31"
+    }
   ]
 }
