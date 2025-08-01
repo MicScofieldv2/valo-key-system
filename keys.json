@@ -1,8 +1,20 @@
 {
   "valid_keys": [
-    "REDBULL2025",
-    "ABC123",
-    "TEST-KEY-001"
+    {
+      "key": "REDBULL2025",
+      "expires": null
+    },
+    {
+      "key": "ABC123",
+      "expires": null
+    },
+    {
+      "key": "TEST-KEY-001",
+      "expires": null
+    },
+    {
+      "key": "usernm32",
+      "expires": "2025-08-08T17:47:00"
+    }
   ]
 }
-
