@@ -1,7 +1,8 @@
 {
-  "valid_keys": {
-    "NL-TEST-2025": {
-      "expires": "2025-07-17 21:28"
-    }
-  }
+  "valid_keys": [
+    "REDBULL2025",
+    "ABC123",
+    "TEST-KEY-001"
+  ]
 }
+
